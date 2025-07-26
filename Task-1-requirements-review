@@ -1,6 +1,10 @@
 accenture-nordics-forage-simulation/
 │
-├── task-1-requirements-review/
+├── task-1/
 │   ├── README.md
 │   └── technical-requirements-review.md
-|   |__ Architecture-peer-review.md
+|   └──  Architecture-peer-review.md
+|   └── Cloud-Architecture-review.md
+|   ├── IMAGES/
+|   └── Architecture-peer-integration.png
+|   └── Cloud-Architecture-integration.png
